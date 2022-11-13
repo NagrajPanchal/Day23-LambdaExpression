@@ -1,4 +1,4 @@
-// UC-13 : Refactor the Code to use Lambda Function to validate User Entry
+// UC-13 : Refactor the Code to use Lambda Function to validate User Entry Name
 
 package com.bridgelabz;
 
